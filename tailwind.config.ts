@@ -18,6 +18,10 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				serif: ['Cormorant', 'ui-serif', 'Georgia', 'serif'],
+				sans: ['Open Sans', 'ui-sans-serif', 'system-ui', 'sans-serif']
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
@@ -61,6 +65,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				memorial: {
+					dark: '#1F2937',
+					red: '#DC2626',
+					gold: '#F59E0B',
+					gray: '#6B7280'
 				}
 			},
 			borderRadius: {
