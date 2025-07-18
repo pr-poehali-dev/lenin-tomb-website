@@ -102,7 +102,7 @@ const Index = () => {
             <div className="relative">
               <div className="relative bg-gradient-to-br from-memorial-gold/20 to-memorial-red/20 rounded-2xl p-8 backdrop-blur-sm">
                 <img 
-                  src="/img/748e89c5-99e7-4bd4-ab2d-e30f02192685.jpg" 
+                  src="/img/20cb2772-f899-40f9-ab8d-583c03f4e802.jpg" 
                   alt="Портрет В.И. Ленина"
                   className="w-full h-96 object-cover rounded-xl grayscale hover:grayscale-0 transition-all duration-500"
                 />
